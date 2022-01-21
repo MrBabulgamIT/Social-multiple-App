@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Multiple Social App</string>
+
+
+    <string-array name="apps_name">
+
+        <item>Facebook</item>
+        <item>WhatsApp</item>
+        <item>Messenger</item>
+        <item>Twitter</item>
+        <item>YouTube</item>
+        <item>Skype</item>
+        <item>Viber</item>
+        <item>Linkedin</item>
+        <item>imo beta</item>
+        <item>imo HD</item>
+        <item>Instagram</item>
+        <item>TikTok</item>
+        <item>Likee</item>
+        <item>Snapchat</item>
+        <item>SHAREit</item>
+        <item>Messenger Lite</item>
+        <item>Facebook Lite</item>
+        <item>Twitter Lite</item>
+        <item>Skype Lite</item>
+        <item>Instagram Lite</item>
+        <item>Likee Lite</item>
+        <item>TikTok Lite</item>
+        <item>Gmail</item>
+        <item>Google Drive</item>
+
+    </string-array>
+
+    <string-array name="discrip">
+
+        <item>Founder by Mark Zuckerberg launches 04/02/2004</item>
+        <item>Founders by Jan Koum Brian Acton launches 04/02/2009 </item>
+        <item>Originally developed as Facebook Chat in 2008</item>
+        <item>Founders by Jack Dorsey,Noah Glass, Biz Stone and Evan Williams launched in July 2006</item>
+        <item>Founders by Steve Chen,Chad Hurley and Jawed Karim launches 14/02/2005</item>
+        <item>Founders by Zahti ,Priit and Tallinn, Danish developer Janus and Zennstrom launched Aug 2003</item>
+        <item>Founders Talmon Marco, Igor Magazinnik launched  02/12/2010</item>
+        <item> LinkedIn is founded by Reid Hoffman and 4 other friends.Launched 5 May 2003.</item>
+        <item>Original author Ralph Harik Developer Imo, Inc. Initial release 2005 </item>
+        <item>It is developed in 2005 by PageBites</item>
+        <item>Original author Kevin Systrom Mike Krieger launched October 6, 2010 </item>
+        <item>Founded by Zhang Yiming launched was in September 2017 by ByteDance </item>
+        <item>Founder Jason Hu launched in July 2017</item>
+        <item>Snapchat was created by Evan Spiegel,Bobby Murphy and Reggie Brown launched in September 2011</item>
+        <item> SHAREit was founded in April 2015 with Michael Qiu.</item>
+        <item>Messenger Lite launch is a no-brainer for Kenya launched in October 2016</item>
+        <item>Facebook Lite to launch in developed countries. Launched in August 2013</item>
+        <item>Twitter Lite Launched 2017</item>
+        <item>Exclusively launched for India on 22nd February</item>
+        <item>nstagram Lite has been launched in 170 countries today, March 12, 2021</item>
+        <item>Release Date 11/09/2018</item>
+        <item>Published Date india July 27, 2020</item>
+        <item>Created by Paul Buchheit  launched in  01/04/2004</item>
+        <item>Google Drive developed by Google. Launched on April 24,2012</item>
+
+    </string-array>
+    <string name="jont_text">
+
+        Assalamualaikum.
+
+        \n\nMy Name is Md.Samiul Alim Jony.My Hometown is chapai-Nawabganj,Rajshahi,Bagnladesh.
+        \n\nThis app any objection so you can inform myself. Go Menu option Then click Feedback Option then type your name
+        and Message Then Click sent Button.
+
+        Thanks for using this Apps.\n\n
+
+        Allah Hafiz..\n\n
+
+        ℙ𝕠𝕨𝕖𝕣 𝔹𝕪 𝕭𝛼𝖇𝖚𝖑𝖌𝛼𝖒
+
+    </string>
+
+</resources>
